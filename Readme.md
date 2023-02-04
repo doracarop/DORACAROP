@@ -1,2 +1,2 @@
-Contribution Guidelines
+# Contribution Guidelines
 Some description.
